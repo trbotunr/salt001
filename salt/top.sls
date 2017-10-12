@@ -1,6 +1,4 @@
 base:
   '*':
     - requirements
-    - users
-    - ssh
-    - logging
+    - elasticsearch
